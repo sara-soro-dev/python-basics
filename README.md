@@ -1,2 +1,2 @@
 # python-basics
-Simple Python projects for practice
+Simple Python projects to practice core Python concepts.
